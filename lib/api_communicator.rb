@@ -32,9 +32,6 @@ def get_character_movies_from_api(character_name)
   #  and that method will do some nice presentation stuff like puts out a list
   #  of movies by title. Have a play around with the puts with other info about a given film.
   print_movies(film_info)
-
-
-
 end
 
 def print_movies(films)
@@ -49,7 +46,6 @@ def show_character_movies(character)
   print_movies(films)
 end
 
-# get_character_movies_from_api("C-3PO")
 
 ## BONUS
 
